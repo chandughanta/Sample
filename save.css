@@ -1,0 +1,82 @@
+.{
+	margin: 0px;
+	padding: 0px;
+}
+.headimage h1{
+	font-style:italic;
+	color:white;
+	background-color: red;
+	padding:60px 50px;
+	border-radius: 40px;
+}
+.backimage1{
+
+	text-align:center;
+	color:red; 
+	font-family:serif;
+	background-image: url(4.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	padding-bottom:50px;
+	padding-top:50px;
+	font:bold;
+	padding-left: 200px;
+	padding-right: 200px;
+	
+}
+.form1 button{
+	background-color: blue;
+	border-radius: 10px;
+	padding:10px 20px;
+}
+.form1 h1 input{
+	width: 200px;
+	height:30px;
+	border-radius: 10px;
+	opacity: 0.5;
+	font-size: 17px;
+	font-style: morespace;
+
+}
+.form1 h1 select{
+	border-radius: 10px;
+	width:80px;
+	height:20px;
+
+}
+.bodyimage{
+	background-color: grey;
+	background-image: url(4.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-bottom:300px;
+	padding-top:50px;
+	font:bold;
+	padding-left: 200px;
+	padding-right: 200px;
+	border-style: double;
+	
+}
+.headimage1{
+	background-color: lightgreen;
+	padding-top: 50px;
+	border-style:double;
+
+}
+.bodyimage button{
+	background-color: black;
+	color:white;
+	height:40px;
+	border-radius: 5px;
+	width:200px;
+	cursor:pointer;
+
+}
+.headimage1 button{
+	background-color: black;
+	color:white;
+	height:40px;
+	border-radius: 5px;
+	width:200px;
+
+}
